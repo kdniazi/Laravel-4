@@ -11,8 +11,9 @@ class eway
 {	
 	function profilexml()
 	{
+		
 	/*********************************************************************************/
-	// RECURRING PAYMENT FUNCTIONS
+	// RECURRING PAYMENT FUNCTIONS this i is djsaustr
 	/********************************************************************************/
 		global  $customerTitle,
 				$customerFirstName,
